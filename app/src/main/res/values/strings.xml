@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PetS</string>
+    <string-array name="type_array">
+        <item>All</item>
+        <item>Dog</item>
+        <item>Cat</item>
+    </string-array>
+    <string-array name="distance_array">
+        <item>All</item>
+        <item>Up to 10 km</item>
+        <item>Up to 15 km</item>
+        <item>Up to 20 km</item>
+        <item>Up to 50 km</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>All</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
